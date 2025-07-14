@@ -90,6 +90,7 @@ section{
     justify-content: center;
     align-items: center;
     padding: 7px;
+
     
 }
 .sub{
@@ -118,11 +119,7 @@ border-radius: 5px;
 border: 1px solid grey;
 height: 25px;
 margin: 2px;
- display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
+ 
 
 }
 
