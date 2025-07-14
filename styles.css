@@ -17,6 +17,10 @@ a{
 .botdiv{
 
 margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 
 }
 header{
